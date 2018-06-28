@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## Link to my Pixel-Art-Maker App
 
-[Pixel-Art-Maker](https://basilcea.github.io/Pixel-Art-Maker/)
+[Pixel-Art-Maker](https://basilcea.github.io/Pixel-Art-MAker/)
